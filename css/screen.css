@@ -4,6 +4,9 @@ body {
 }
 h1 {
 	font-size: 3em;
+	font-weight: bold;
 	color: white;
 	text-align: center;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: gray;
 }
