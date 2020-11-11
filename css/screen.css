@@ -1,4 +1,4 @@
 body {
-	background-image: url(img src="background.jpg" alt="background");
+	background-image: url(../css/background.jpg);
 	background-size: 1800px 900px;
 }
