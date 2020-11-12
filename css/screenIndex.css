@@ -7,6 +7,6 @@ h1 {
 	font-weight: bold;
 	color: white;
 	text-align: center;
-	-webkit-text-stroke-width: 2px;
-	-webkit-text-stroke-color: gray;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
 }
