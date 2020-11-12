@@ -1,0 +1,12 @@
+body {
+	background-image: url(../css/background.jpg);
+	background-size: 1800px 900px;
+}
+h1 {
+	font-size: 3em;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: gray;
+}
