@@ -8,5 +8,11 @@ h1 {
 	color: white;
 	text-align: center;
 	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-color: gray;
+}
+h2 {
+	font-size: 2em;
+	font-weight: bold;
+	color: white;
+	text-align: center
 }
