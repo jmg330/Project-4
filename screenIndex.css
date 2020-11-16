@@ -10,6 +10,7 @@ h1 {
     background-color: lightblue;
 }
 h2 {
+	
 	font-size: 1.5em;
 	font-weight: bold;
 	color: white;
@@ -32,7 +33,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-}
 li {
   float: left;
 }
