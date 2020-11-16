@@ -10,7 +10,6 @@ h1 {
     background-color: lightblue;
 }
 h2 {
-	
 	font-size: 1.5em;
 	font-weight: bold;
 	color: white;
@@ -22,6 +21,17 @@ h2 {
     text-align: center;    
     bottom: 0px; 
     width: 100%;
+}
+h1 {
+	text-align: center;
+	line-height: 1.6;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 li {
   float: left;
