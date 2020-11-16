@@ -3,12 +3,11 @@ body {
 	background-size: 1800px 900px;
 }
 h1 {
-	font-size: 3em;
-	font-weight: bold;
 	color: white;
-	text-align: center;
-	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: gray;
+    padding: 5px 10px;
+    font-family: Optima, sans-serif;
+    border: 3px outset silver;
+    background-color: lightblue;
 }
 h2 {
 	
